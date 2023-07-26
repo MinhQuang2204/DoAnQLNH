@@ -1,0 +1,43 @@
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\bin\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\bin\Debug\DAL.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\obj\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DAL\bin\Debug\DTO.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DAL.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DAL.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DTO.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DTO.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DAL.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DAL.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DTO.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\bin\Debug\DTO.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\DAL\obj\Debug\DAL.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DAL.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DAL.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DTO.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DTO.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DAL.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DAL.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DTO.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\bin\Debug\DTO.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\DAL\obj\Debug\DAL.pdb

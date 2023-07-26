@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f9949fe-3ae6-4641-999a-dab91156710c": {
+      "ProjectGuid": "8f9949fe-3ae6-4641-999a-dab91156710c",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "c79d2f61-599d-4317-9777-7d615410839c": {
+      "ProjectGuid": "c79d2f61-599d-4317-9777-7d615410839c",
+      "DisplayName": "BUS",
+      "ColorIndex": 1
+    },
+    "1a89e45d-24bf-4586-b1af-1c048699d2e4": {
+      "ProjectGuid": "1a89e45d-24bf-4586-b1af-1c048699d2e4",
+      "DisplayName": "DTO",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DTO\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DTO\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DTO\obj\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\DTO\obj\Debug\DTO.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DTO\bin\Debug\DTO.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DTO\bin\Debug\DTO.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DTO\obj\Debug\DTO.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,53 @@
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\bin\Debug\BUS.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\bin\Debug\BUS.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\bin\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\bin\Debug\DAL.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\obj\Debug\BUS.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\BUS\obj\Debug\BUS.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\BUS.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\BUS.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DAL.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DTO.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DAL.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DTO.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\BUS.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\BUS.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DAL.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DTO.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DAL.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\bin\Debug\DTO.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\BUS\obj\Debug\BUS.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\BUS.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\BUS.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DAL.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DTO.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DAL.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DTO.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\BUS.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\BUS.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DAL.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DTO.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DAL.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\bin\Debug\DTO.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,113 @@
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\GUI.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\BUS.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\BUS.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\DAL.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Login.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.GiaoDien.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.DoiTaiKhoan.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.KhachHang.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonChuyenTien.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoatDong.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonRutTien.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.NhanVien.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\BUS.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DTO.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DAL.dll
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\BUS.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DTO.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DAL.pdb
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.DoiTaiKhoan.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.NhanVien.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.GiaoDien.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonChuyenTien.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonRutTien.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoatDong.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.KhachHang.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Login.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+C:\Users\Tona\Documents\HK2 năm 2\LTWINDOW\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\BUS.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DTO.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DAL.dll
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\BUS.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DTO.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\bin\Debug\DAL.pdb
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.DoiTaiKhoan.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.NhanVien.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.GiaoDien.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonChuyenTien.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonRutTien.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoatDong.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.KhachHang.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Login.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+C:\Users\vumin\OneDrive\Desktop\LTWindow\ĐoAnCuoiKyLapTrinhWin\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\BUS.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DTO.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DAL.dll
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\BUS.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DTO.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DAL.pdb
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.DoiTaiKhoan.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.NhanVien.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.GiaoDien.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonChuyenTien.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonRutTien.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoatDong.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.KhachHang.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Login.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+C:\Users\Acer\OneDrive\Documents\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\BUS.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DTO.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DAL.dll
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\BUS.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DTO.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\bin\Debug\DAL.pdb
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.DoiTaiKhoan.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.NhanVien.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.GiaoDien.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonChuyenTien.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoaDonRutTien.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.HoatDong.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.KhachHang.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Login.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\GUI.csproj.CopyComplete
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+D:\Lập Trình WinForm\ĐoAnCuoiKyLapTrinhWin (1)\ADO\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb

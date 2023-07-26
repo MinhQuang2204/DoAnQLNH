@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+c:\users\admin\documents\visual studio 2015\Projects\Quản lý nhân viên\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb
